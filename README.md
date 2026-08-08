@@ -8,6 +8,7 @@ A simple web application that generates uplifting digital affirmation quotes to 
   <li>Responsive design (works on desktop and mobile)</li>
   <li>Easy to customize with your own quotes</li>
 </ul>
+<br>
 <ul>
   <p>Usage:</p>
   <li>Open the webpage in a browser.</li>
@@ -15,4 +16,5 @@ A simple web application that generates uplifting digital affirmation quotes to 
   <li>Click the Generate Quote button.</li>
   <li>Enjoy a new affirmation each time.</li>
 </ul>
+<br>
 To add new affirmations, edit the quotes.js file and include your own phrases in the array.
